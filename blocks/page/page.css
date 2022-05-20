@@ -2,7 +2,7 @@
   background: #2A2C2F;
   margin: 0 auto;
   padding: 0;
-  width: 100%;
+  max-width: 100%;
   font-family: 'Inter', Arial, sans-serif;
   color: #FFFFFF;
   -moz-osx-font-smoothing: grayscale;
